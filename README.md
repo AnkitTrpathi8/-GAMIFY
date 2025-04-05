@@ -1,4 +1,8 @@
 # -GAMIFY
+How to run it:
+1.Save all the file and save audio in folder sounds.
+2.Run the file 'connecting.html'
+3.all work is done.
 Inspiration:
 The inspiration behind Gamify: Learn and Play stemmed from the need to make learning more engaging and fun for students. Traditional learning methods can often feel repetitive and dull, which discourages students from enjoying the process. We wanted to create a platform that combines the excitement of gaming with the educational value of math and science. By turning learning into a game, we hope to inspire curiosity, spark creativity, and make learning feel like an adventure. The idea was to create a space where players not only improve their skills but genuinely enjoy the process of discovery.
 
